@@ -8,4 +8,4 @@ Typecho 最新开发版已经 [直接支持粘贴上传功能](https://github.co
 1. Download ZIP 下载本插件最新版本
 2. 解压，把 `myshare-typecho-master` 目录重命名为 `Myshare` 上传至博客的 `/usr/plugins` 目录下
 3. 在插件页面启用本插件
-4. 设置您的token
+4. 设置您的[图床token](https://www.myshare.cc/user/tokens)
